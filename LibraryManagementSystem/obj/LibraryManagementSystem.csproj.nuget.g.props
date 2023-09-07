@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\A2667733\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\A2667733\.nuget\packages\jquery\1.9.0</PkgjQuery>
+  </PropertyGroup>
 </Project>
