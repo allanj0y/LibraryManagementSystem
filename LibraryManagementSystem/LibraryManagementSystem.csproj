@@ -6,4 +6,22 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\Shared\admin_home.cshtml" />
+    <Content Remove="Views\Shared\EditBook.cshtml" />
+    <Content Remove="Views\Shared\LogIn.cshtml" />
+    <Content Remove="Views\Shared\user_home.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Shared\admin_home.cshtml" />
+    <None Include="Views\Shared\EditBook.cshtml" />
+    <None Include="Views\Home\LogIn.cshtml" />
+    <None Include="Views\Shared\user_home.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Twitter.Bootstrap" Version="3.0.1.1" />
+  </ItemGroup>
+
 </Project>
