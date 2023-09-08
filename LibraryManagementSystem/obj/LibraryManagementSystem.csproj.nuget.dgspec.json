@@ -46,6 +46,10 @@
             "Twitter.Bootstrap": {
               "target": "Package",
               "version": "[3.0.1.1, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[3.4.1, )"
             }
           },
           "imports": [
