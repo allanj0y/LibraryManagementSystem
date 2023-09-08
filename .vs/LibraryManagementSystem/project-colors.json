@@ -15,7 +15,12 @@
       "ProjectGuid": "d9be4674-62fc-4168-9d74-6db4a15582ff",
       "DisplayName": "OfficeLibraryManagementSystem",
       "ColorIndex": 1
+    },
+    "cb005fc7-704d-4e5b-bfbe-8f61852fa008": {
+      "ProjectGuid": "cb005fc7-704d-4e5b-bfbe-8f61852fa008",
+      "DisplayName": "LibraryMangement",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

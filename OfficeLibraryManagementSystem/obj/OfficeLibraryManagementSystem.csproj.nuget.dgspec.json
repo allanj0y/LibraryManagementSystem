@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OneDrive - H&R BLOCK LTD\\Documents\\allan\\project\\LibraryManagementSystem\\LibraryManagementSystem\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj": {}
+    "C:\\Users\\A2696972\\source\\repos\\lms\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\OneDrive - H&R BLOCK LTD\\Documents\\allan\\project\\LibraryManagementSystem\\LibraryManagementSystem\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj": {
+    "C:\\Users\\A2696972\\source\\repos\\lms\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\allan\\project\\LibraryManagementSystem\\LibraryManagementSystem\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\A2696972\\source\\repos\\lms\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj",
         "projectName": "OfficeLibraryManagementSystem",
-        "projectPath": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\allan\\project\\LibraryManagementSystem\\LibraryManagementSystem\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\A2667733\\.nuget\\packages\\",
-        "outputPath": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\allan\\project\\LibraryManagementSystem\\LibraryManagementSystem\\OfficeLibraryManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\A2696972\\source\\repos\\lms\\OfficeLibraryManagementSystem\\OfficeLibraryManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\A2696972\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A2696972\\source\\repos\\lms\\OfficeLibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\A2667733\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A2696972\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
