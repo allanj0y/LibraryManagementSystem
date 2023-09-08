@@ -24,3 +24,29 @@ C:\OneDrive - H&R BLOCK LTD\Documents\allan\project\LibraryManagementSystem\Libr
 C:\OneDrive - H&R BLOCK LTD\Documents\allan\project\LibraryManagementSystem\LibraryManagementSystem\OfficeLibraryManagementSystem\obj\Debug\net6.0\ref\OfficeLibraryManagementSystem.dll
 C:\OneDrive - H&R BLOCK LTD\Documents\allan\project\LibraryManagementSystem\LibraryManagementSystem\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.pdb
 C:\OneDrive - H&R BLOCK LTD\Documents\allan\project\LibraryManagementSystem\LibraryManagementSystem\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.genruntimeconfig.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.staticwebassets.runtime.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.exe
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.deps.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.runtimeconfig.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.dll
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\ref\OfficeLibraryManagementSystem.dll
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\bin\Debug\net6.0\OfficeLibraryManagementSystem.pdb
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.AssemblyInfo.cs
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.RazorAssemblyInfo.cache
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.RazorAssemblyInfo.cs
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\scopedcss\bundle\OfficeLibraryManagementSystem.styles.css
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\OfficeLibraryManagementSystem.bundle.scp.css
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.dll
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\ref\OfficeLibraryManagementSystem.dll
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.pdb
+C:\Users\A2696972\source\repos\lms\OfficeLibraryManagementSystem\obj\Debug\net6.0\OfficeLibraryManagementSystem.genruntimeconfig.cache
